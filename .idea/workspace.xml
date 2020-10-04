@@ -10,7 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d860b796-a8e4-417e-b3a4-f0e6d24a5ab7" name="Default Changelist" comment="" />
+    <list default="true" id="d860b796-a8e4-417e-b3a4-f0e6d24a5ab7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +30,7 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
   </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
@@ -137,10 +142,26 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.env" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projetos\TCC\lds-scrum-management-api" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -158,6 +179,10 @@
       <updated>1598153514716</updated>
       <workItem from="1598153517631" duration="126000" />
       <workItem from="1598153664401" duration="84000" />
+      <workItem from="1598808609390" duration="66000" />
+      <workItem from="1598808686089" duration="418000" />
+      <workItem from="1598809121094" duration="6091000" />
+      <workItem from="1601841766881" duration="661000" />
     </task>
     <servers />
   </component>
@@ -174,27 +199,57 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1598153602876">
+    <state x="552" y="178" key="#Deployment" timestamp="1598809235680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1598809235680" />
+    <state x="634" y="195" key="#Options" timestamp="1598809149577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="634" y="195" key="#Options/0.0.1920.1040@0.0.1920.1040" timestamp="1598809149577" />
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598817498177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598817498177" />
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1598809109127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598153602876" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1598153602876">
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598809109127" />
+    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1598809109127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598153602876" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1598153602875">
+    <state width="1877" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598809109127" />
+    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1598809109127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598153602875" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1598153602876">
+    <state width="1877" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598809109127" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1598809109127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598153602876" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1598153748475">
+    <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598809109127" />
+    <state width="196" height="539" key="HiddenNamespacesPopup" timestamp="1598817512035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="196" height="539" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1598817512035" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1598820133967">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1598153748475" />
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598820133967" />
+    <state x="774" y="170" key="ftp.server.browser" timestamp="1598809233948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="774" y="170" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1598809233948" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1598809516263">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598809516263" />
   </component>
 </project>
